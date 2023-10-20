@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a 4th year studying Computer Science in South East Technological University specializing in game development
+Currently a 4th year studying Computer Science in South East Technological University specializing in game development.
 
 
 ## 🌐 Socials:
