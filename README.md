@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer crafting software and building solutions.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/corey-shanahan">
+  <a href="https://linkedin.com/in/corey-shanahan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
